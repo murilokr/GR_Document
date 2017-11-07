@@ -1,0 +1,3 @@
+/home/murilo/Documents/TCC/Applications/main/CMakeFiles/edit_cache.dir
+/home/murilo/Documents/TCC/Applications/main/CMakeFiles/rebuild_cache.dir
+/home/murilo/Documents/TCC/Applications/main/CMakeFiles/tcc.dir
