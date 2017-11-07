@@ -5,6 +5,8 @@ Dependencies:
     * OpenNI
     * NiTE 2
     * A Kinect Device
+    * FANN
+    * CvHMM
 
 4 Available Gestures:
 
