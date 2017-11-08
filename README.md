@@ -1,5 +1,5 @@
 # GR_Document (Gesture Recognition on Documents)
-This software was made for my undergradiate thesis, it uses Neural Networks and Hidden Markov Models to recognize gestures and apply the gestures actions to pdf. documents that have window focus.
+This software was made for my undergraduate thesis, it uses Neural Networks and Hidden Markov Models to recognize gestures and apply the gestures actions to pdf. documents that have window focus.
 
 Available Gestures:
 
